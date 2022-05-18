@@ -6423,6 +6423,10 @@ figcaption {
   }
 }
 
+.margin-top-15.coming-soon  {
+  display: none;
+}
+
 #w-node-a0a3eb31-cd6b-4723-db9b-10832e43ad63-089a1710 {
   -ms-grid-column-align: end;
   justify-self: end;
